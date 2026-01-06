@@ -1,0 +1,11 @@
+[project]
+name = "asuit-mmg"
+version = "0.1.0"
+description = "Scrapes ASUIT medical doctors (medici di medicina generale) and posts changes to Telegram"
+requires-python = ">=3.11"
+dependencies = [
+    "requests>=2.31.0",
+    "beautifulsoup4>=4.12.0",
+    "python-telegram-bot>=21.0",
+    "python-dotenv>=1.0.0",
+]

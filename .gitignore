@@ -1,0 +1,8 @@
+.env
+doctor_state.json
+__pycache__/
+*.pyc
+.venv/
+.idea/
+.vscode/
+*.log
