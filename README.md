@@ -128,20 +128,20 @@ Schedule the scraper to run periodically using cron.
 ## Telegram Message Example
 
 ```
-🏥 Aggiornamento Medici di Base
+🏥 Aggiornamento medici di medicina generale
 
-➕ Medici Aggiunti (2):
+➕ Medici aggiunti (2):
 
 Disponibile:
-  • Mario Rossi (ARCO, RIVA DEL GARDA)
+  • **Mario Rossi** (ARCO, RIVA DEL GARDA)
 
 Nessuna Disponibilità:
-  • Laura Bianchi (TRENTO)
+  • **Laura Bianchi** (TRENTO)
 
-➖ Medici Rimossi (1):
-  • Giovanni Verdi (ROVERETO)
+➖ Medici rimossi (1):
+  • **Giovanni Verdi** (ROVERETO)
 
-🔄 Cambio Disponibilità (1):
-  • Paolo Neri (ARCO)
+🔄 Cambio disponibilità (1):
+  • **Paolo Neri** (ARCO)
     Nessuna Disponibilità → Disponibile
 ```
