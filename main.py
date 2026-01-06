@@ -337,7 +337,7 @@ def format_telegram_message(changes: dict[str, Any]) -> str:
     message_parts = []
 
     # Header
-    message_parts.append("🏥 *Aggiornamento medici di medicina generale*\n")
+    message_parts.append("🏥 *Aggiornamento medici di medicina generale*")
 
     # Added doctors
     if changes['added']:
